@@ -192,7 +192,7 @@ input[type=submit] {
         border-bottom: 3px;
         border-style: solid;
         border-color: #cccccc;
-        position: fixed;
+        position: absolute;
         width: 100%;
         text-align: center;
         top: 0;
@@ -378,7 +378,7 @@ input[type=submit] {
         border-bottom: 3px;
         border-style: solid;
         border-color: #cccccc;
-        position: fixed;
+        position: absolute;
         width: 100%;
         text-align: center;
         top: 0;
@@ -563,7 +563,7 @@ input[type=submit] {
         border-bottom: 3px;
         border-style: solid;
         border-color: #cccccc;
-        position: fixed;
+        position: absolute;
         width: 100%;
         text-align: center;
         top: 0;
